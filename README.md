@@ -16,13 +16,23 @@ Here we describe the files that exist for each system in the study.
 - max.csv - Number of maximal possible modules without variability models, by order
 
 **Raw Results**
-TP.csv - True Positive for prediction per order
-TN.csv - True Negative for prediction per order
-TN_max.csv - True Negative for prediction per order, without variability model restrictions
-FP.csv - False Positive for prediction per order
-FP_max.csv - False Positive for prediction per order, without variability model restrictions
-FN.csv - False Negative for prediction per order
+- TP.csv - True Positive for prediction per order
+- TN.csv - True Negative for prediction per order
+- TN_max.csv - True Negative for prediction per order, without variability model restrictions
+- FP.csv - False Positive for prediction per order
+- FP_max.csv - False Positive for prediction per order, without variability model restrictions
+- FN.csv - False Negative for prediction per order
 
 **Metrics Results**
+- prevalence.csv - Prevalence of modules in source code, in relation to modules in variabililty model, by order
+- sensitivity.csv - 
+- specificity.csv - 
+- ppv.csv - 
+- npv.csv - 
+- accuracy.csv - 
+- reduction.csv - 
+- tpSubCount.csv - 
+- fpSubCount.csv - 
 
+**Metrics Results when applying a threshold of 2 for predictions**
 
