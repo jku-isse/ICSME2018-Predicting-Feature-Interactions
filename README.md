@@ -1,1 +1,1 @@
-# ICSME2018-Structural-Feature-Interactions
+# ICSME2018-Predicting-Feature-Interactions
