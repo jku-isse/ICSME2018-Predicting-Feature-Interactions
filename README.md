@@ -25,14 +25,21 @@ Here we describe the files that exist for each system in the study.
 
 **Metrics Results**
 - prevalence.csv - Prevalence of modules in source code, in relation to modules in variabililty model, by order
-- sensitivity.csv - 
-- specificity.csv - 
-- ppv.csv - 
-- npv.csv - 
-- accuracy.csv - 
-- reduction.csv - 
-- tpSubCount.csv - 
-- fpSubCount.csv - 
+- sensitivity.csv - Sensitivity of the prediction, by order
+- specificity.csv - Specificity of the prediction, by order
+- ppv.csv - Positive Predictive Value of the prediction, by order
+- npv.csv - Negative Predictive Value of the prediction, by order
+- accuracy.csv - Accuracy of the prediction, by order
+- reduction.csv - Reduction of modules with the prediction compared to the variabiliy model, by order
+- tpSubCount.csv - Number of times modules in TP have been predicted 
+- fpSubCount.csv - Number of times modules in FP have been predicted 
 
 **Metrics Results when applying a threshold of 2 for predictions**
+- sensitivityFiltered.csv - Sensitivity of the prediction, by order
+- specificityFiltered.csv - Specificity of the prediction, by order
+- ppvFiltered.csv - Positive Predictive Value of the prediction, by order
+- npvFiltered.csv - Negative Predictive Value of the prediction, by order
+- accuracyFiltered.csv - Accuracy of the prediction, by order
+- reductionFiltered.csv - Reduction of modules with the prediction compared to the variabiliy model, by order
+
 
