@@ -1,0 +1,11 @@
+δ^0(sequencediagram{0})/
+δ^0(activitydiagram{0})/
+δ^0(usecasediagram{0})/
+δ^0(¬cognitive{0})/
+δ^0(cognitive{0})/
+δ^0(deploymentdiagram{0})/
+δ^0(¬logging{0})/
+δ^0(logging{0})/
+δ^0(argouml{0})/
+δ^0(collaborationdiagram{0})/
+δ^0(statediagram{0})/

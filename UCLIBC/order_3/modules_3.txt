@@ -1,0 +1,7 @@
+δ^3(__malloc__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^3(¬__malloc__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^3(__uclibc_has_threads_native__{0})/δ(¬__UCLIBC_SUSV4_LEGACY__{0})δ(__PTHREADS_DEBUG_SUPPORT__{0})δ(__UCLIBC_HAS_THREADS__{0})
+δ^3(¬__malloc_simple__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^3(__malloc_simple__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^3(¬__malloc_standard__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^3(__malloc_standard__{0})/δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})

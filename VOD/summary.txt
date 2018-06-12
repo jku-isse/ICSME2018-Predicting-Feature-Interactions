@@ -1,0 +1,54 @@
+VOD_ALL_JAVA (11):
+
+Number of Modules: 31
+Number of Modules with order 0: 9
+Number of Modules with order 1: 17
+Number of Modules with order 2: 5
+---------------------------
+Order: 0 (9)
+max: 22.0
+tSets: 16.0
+TP: 0.0
+TN: 7.0
+FP: 0.0
+FN: 9.0
+Average number of times predicted and exists: NaN
+Average number of times predicted: NaN
+TN_max: 13.0
+FP_max: 0.0
+Precision: NaN
+Recall: 0.0
+True Negative Rate: 1.0
+Accuracy: 0.4375
+---------------------------
+Order: 1 (17)
+max: 220.0
+tSets: 115.0
+TP: 17.0
+TN: 20.0
+FP: 78.0
+FN: 0.0
+Average number of times predicted and exists: 1.9411764705882353
+Average number of times predicted: 1.3789473684210527
+TN_max: 76.0
+FP_max: 127.0
+Precision: 0.17894736842105263
+Recall: 1.0
+True Negative Rate: 0.20408163265306123
+Accuracy: 0.3217391304347826
+---------------------------
+Order: 2 (5)
+max: 1320.0
+tSets: 490.0
+TP: 5.0
+TN: 323.0
+FP: 162.0
+FN: 0.0
+Average number of times predicted and exists: 2.0
+Average number of times predicted: 1.3592814371257484
+TN_max: 1074.0
+FP_max: 241.0
+Precision: 0.029940119760479042
+Recall: 1.0
+True Negative Rate: 0.6659793814432989
+Accuracy: 0.6693877551020408

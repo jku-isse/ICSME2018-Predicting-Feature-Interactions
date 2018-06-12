@@ -1,0 +1,2 @@
+δ^4(__uclibc_uclinux_broken_munmap__{0})/δ(__MALLOC__{0})δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})
+δ^4(__uclibc_uclinux_broken_munmap__{0})/δ(¬__MALLOC__{0})δ(__ARCH_USE_MMU__{0})δ(__UCLIBC_HAS_THREADS__{0})δ(__LINUXTHREADS_OLD__{0})

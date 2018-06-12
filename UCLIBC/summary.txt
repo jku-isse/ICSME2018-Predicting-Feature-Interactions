@@ -1,0 +1,88 @@
+UCLIBC (137):
+
+Number of Modules: 251
+Number of Modules with order 0: 113
+Number of Modules with order 1: 100
+Number of Modules with order 2: 29
+Number of Modules with order 3: 7
+Number of Modules with order 4: 2
+---------------------------
+Order: 0 (113)
+max: 274.0
+tSets: 274.0
+TP: 0.0
+TN: 161.0
+FP: 0.0
+FN: 113.0
+Average number of times predicted and exists: NaN
+Average number of times predicted: NaN
+TN_max: 161.0
+FP_max: 0.0
+Precision: NaN
+Recall: 0.0
+True Negative Rate: 1.0
+Accuracy: 0.5875912408759124
+---------------------------
+Order: 1 (100)
+max: 37264.0
+tSets~: 37264.0
+TP: 96.0
+TN~: 12825.0
+FP: 24339.0
+FN: 4.0
+Average number of times predicted and exists: 1.8020833333333333
+Average number of times predicted: 1.257867812563945
+TN_max: 12825.0
+FP_max: 24339.0
+Precision: 0.003928790669122161
+Recall: 0.96
+True Negative Rate: 0.3450920245398773
+Accuracy: 0.34674216401889224
+---------------------------
+Order: 2 (29)
+max: 3353760.0
+tSets~: 3353760.0
+TP: 29.0
+TN~: 3327037.0
+FP: 26694.0
+FN: 0.0
+Average number of times predicted and exists: 1.5862068965517242
+Average number of times predicted: 1.0103656026643715
+TN_max: 3327037.0
+FP_max: 26694.0
+Precision: 0.0010852074991580286
+Recall: 1.0
+True Negative Rate: 0.9920405065284008
+Accuracy: 0.9920405753542293
+---------------------------
+Order: 3 (7)
+max: 2.2470192E8
+tSets~: 2.2470192E8
+TP: 7.0
+TN~: 2.24694181E8
+FP: 7732.0
+FN: 0.0
+Average number of times predicted and exists: 1.0
+Average number of times predicted: 1.0042641168109574
+TN_max: 2.24694181E8
+FP_max: 7732.0
+Precision: 9.045096265667399E-4
+Recall: 1.0
+True Negative Rate: 0.9999655899680747
+Accuracy: 0.9999655899691466
+---------------------------
+Order: 4 (2)
+max: 1.1954142144E10
+tSets~: 1.1954142144E10
+TP: 2.0
+TN~: 1.1954140294E10
+FP: 1848.0
+FN: 0.0
+Average number of times predicted and exists: 1.0
+Average number of times predicted: 1.0064864864864864
+TN_max: 1.1954140294E10
+FP_max: 1848.0
+Precision: 0.001081081081081081
+Recall: 1.0
+True Negative Rate: 0.9999998454092333
+Accuracy: 0.9999998454092333

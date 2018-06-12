@@ -1,0 +1,2 @@
+δ^3(loggingevictor{0})/δ(EVICTOR{0})δ(LOGGINGBASE{0})δ(STATISTICS{0})
+δ^3(memorybudget{0})/δ(LOGGINGEVICTOR{0})δ(EVICTOR{0})δ(LOGGINGBASE{0})

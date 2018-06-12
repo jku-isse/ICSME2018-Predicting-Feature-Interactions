@@ -1,0 +1,71 @@
+BERKELEYDB_JAVA (55):
+
+Number of Modules: 97
+Number of Modules with order 0: 37
+Number of Modules with order 1: 49
+Number of Modules with order 2: 9
+Number of Modules with order 3: 2
+---------------------------
+Order: 0 (37)
+max: 110
+tSets: 101.0
+TP: 0.0
+TN: 64.0
+FP: 0.0
+FN: 37.0
+Average number of times predicted and exists: NaN
+Average number of times predicted: NaN
+TN_max: 73.0
+FP_max: 0.0
+Precision: NaN
+Recall: 0.0
+True Negative Rate: 1.0
+Accuracy: 0.6336633663366337
+---------------------------
+Order: 1 (49)
+max: 5940
+tSets~: 5126.22
+TP: 49.0
+TN~: 2195.2200000000003
+FP: 2882.0
+FN: 0.0
+Average number of times predicted and exists: 1.9183673469387754
+Average number of times predicted: 1.226202661207779
+TN_max: 2610.0
+FP_max: 3281.0
+Precision: 0.01671784373933811
+Recall: 1.0
+True Negative Rate: 0.43236653129074576
+Accuracy: 0.4377923694262049
+---------------------------
+Order: 2 (9)
+max: 209880
+tSets~: 158039.64
+TP: 9.0
+TN~: 153602.64
+FP: 4428.0
+FN: 0.0
+Average number of times predicted and exists: 1.7777777777777777
+Average number of times predicted: 1.0457516339869282
+TN_max: 204889.0
+FP_max: 4982.0
+Precision: 0.002028397565922921
+Recall: 1.0
+True Negative Rate: 0.9719801172734603
+Accuracy: 0.9719817129423985
+---------------------------
+Order: 3 (2)
+max: 5456880
+tSets~: 3568799.52
+TP: 2.0
+TN~: 3567977.52
+FP: 820.0
+FN: 0.0
+Average number of times predicted and exists: 1.0
+Average number of times predicted: 1.0121654501216546
+TN_max: 5455954.0
+FP_max: 924.0
+Precision: 0.0024330900243309003
+Recall: 1.0
+True Negative Rate: 0.9997702307302657
+Accuracy: 0.9997702308590313

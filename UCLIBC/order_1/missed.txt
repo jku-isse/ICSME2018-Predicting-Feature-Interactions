@@ -1,0 +1,5 @@
+δ^1(__uclibc_has_glob__{0})/δ(¬__UCLIBC_HAS_GNU_GLOB__{0})
+δ^1(__uclibc_has_fnmatch__{0})/δ(¬__UCLIBC_HAS_FNMATCH_OLD__{0})
+δ^1(¬__uclibc_has_regex_old__{0})/δ(__UCLIBC_HAS_REGEX__{0})
+δ^1(__uclibc_has_string_generic_opt__{0})/δ(¬__UCLIBC_HAS_STRING_ARCH_OPT__{0})
+
