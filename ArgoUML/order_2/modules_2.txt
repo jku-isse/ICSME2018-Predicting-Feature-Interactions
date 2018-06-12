@@ -1,1 +1,0 @@
-δ^2(sequencediagram{0})/δ(LOGGING{0})δ(COLLABORATIONDIAGRAM{0})

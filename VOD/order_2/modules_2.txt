@@ -1,5 +1,0 @@
-δ^2(startmovie{0})/δ(STARTPLAYER{0})δ(PAUSE{0})
-δ^2(startmovie{0})/δ(SELECTMOVIE{0})δ(PAUSE{0})
-δ^2(playimm{0})/δ(STARTMOVIE{0})δ(SELECTMOVIE{0})
-δ^2(stopmovie{0})/δ(STARTMOVIE{0})δ(SELECTMOVIE{0})
-δ^2(playimm{0})/δ(SELECTMOVIE{0})δ(PAUSE{0})

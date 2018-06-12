@@ -1,2 +1,0 @@
-δ^3(usb{0})/δ(PCI{0})δ(USB_LIBUSUAL{0})δ(USB_STORAGE{0})
-

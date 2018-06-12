@@ -1,7 +1,0 @@
-δ^1(debug{0})/δ(FBSPLASH{0})
-δ^1(telnetd{0})/δ(DEBUG{0})
-δ^1(debug{0})/δ(ASH{0})
-δ^1(debug{0})/δ(ETHER_WAKE{0})
-δ^1(debug{0})/δ(GZIP{0})
-δ^1(test{0})/δ(XARGS{0})
-δ^1(debug{0})/δ(HTTPD{0})
