@@ -2,7 +2,7 @@
 
 ## ICSME2018 Data Repository
 
-This repository serves to provide the data of empirical study published at [ICSME'2018](https://icsme2018.github.io/index.html).
+This repository serves to provide the data of an empirical study published at [ICSME'2018](https://icsme2018.github.io/index.html).
 
 Here we describe the files that exist for each system in the study.
 
