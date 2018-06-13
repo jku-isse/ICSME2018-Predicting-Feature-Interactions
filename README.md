@@ -4,6 +4,8 @@
 
 This repository serves to provide the data of an empirical study published at [ICSME'2018](https://icsme2018.github.io/index.html).
 
+Link to the paper: will be provided once it is published.
+
 Here we describe the files that exist for each system in the study.
 
 ### Data Description
