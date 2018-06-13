@@ -32,6 +32,8 @@ Here we describe the files that exist for each system in the study.
 - reduction.csv - Reduction of modules with the prediction compared to the variabiliy model, by order
 - tpSubCount.csv - Number of times modules in TP have been predicted 
 - fpSubCount.csv - Number of times modules in FP have been predicted 
+- tpSubCountPerOrder.csv - Number of times modules in TP have been predicted, by order
+- fpSubCountPerOrder.csv - Number of times modules in FP have been predicted, by order
 
 **Metrics Results when applying a threshold of 2 for predictions**
 - sensitivityFiltered.csv - Sensitivity of the prediction, by order
